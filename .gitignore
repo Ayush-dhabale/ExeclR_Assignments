@@ -1,0 +1,88 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Packages
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+venv/
+EDA1venv/
+MLRevenv/
+env/
+*.env
+*.venv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# PyInstaller
+# Usually, PyInstaller creates files under the "build" and "dist" directories
+# However, you might have different setups.
+*.manifest
+*.spec
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs and temporary files
+*.log
+*.temp
+*.tmp
+*.bak
+
+# Test output
+coverage/
+*.cover
+*.py,cover
+.hypothesis/
+.tox/
+.nox/
+.cache/
+pytest_cache/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# Poetry
+poetry.lock
+
+# Pylint
+pylint.report
+
+# IDE and editor configurations
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# SQLite database files
+*.sqlite3
+
+# Environment variable files
+.env
+.env.*
+
+# Jupyter Notebook metadata
+*.ipynb_checkpoints
