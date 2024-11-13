@@ -16,7 +16,7 @@ build/
 # Virtual environment
 venv/
 EDA1venv/
-MLRevenv/
+MLRvenv/
 env/
 *.env
 *.venv
