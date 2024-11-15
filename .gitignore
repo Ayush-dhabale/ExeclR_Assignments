@@ -17,6 +17,7 @@ build/
 venv/
 EDA1venv/
 MLRvenv/
+Logvenv/
 env/
 *.env
 *.venv
