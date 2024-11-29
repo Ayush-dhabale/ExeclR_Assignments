@@ -18,6 +18,7 @@ venv/
 EDA1venv/
 MLRvenv/
 Logvenv/
+clustervenv/
 env/
 *.env
 *.venv
