@@ -17,8 +17,10 @@ build/
 venv/
 EDA1venv/
 MLRvenv/
+pcaevenv/
 Logvenv/
 clustervenv/
+decisiontreevenv/
 env/
 *.env
 *.venv
