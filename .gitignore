@@ -21,6 +21,7 @@ pcaevenv/
 Logvenv/
 clustervenv/
 decisiontreevenv/
+randomFvevn/
 env/
 *.env
 *.venv
