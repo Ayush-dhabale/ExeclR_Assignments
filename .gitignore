@@ -22,6 +22,7 @@ Logvenv/
 clustervenv/
 decisiontreevenv/
 randomFvevn/
+XGBMvevn/
 env/
 *.env
 *.venv
