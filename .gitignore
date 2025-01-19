@@ -25,6 +25,7 @@ randomFvevn/
 XGBMvevn/
 KNNvevn/
 SVMvevn/
+EDA2vevn/
 env/
 *.env
 *.venv
