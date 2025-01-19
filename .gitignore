@@ -23,6 +23,7 @@ clustervenv/
 decisiontreevenv/
 randomFvevn/
 XGBMvevn/
+KNNvevn/
 env/
 *.env
 *.venv
