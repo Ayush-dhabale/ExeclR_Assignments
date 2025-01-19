@@ -24,6 +24,7 @@ decisiontreevenv/
 randomFvevn/
 XGBMvevn/
 KNNvevn/
+SVMvevn/
 env/
 *.env
 *.venv
