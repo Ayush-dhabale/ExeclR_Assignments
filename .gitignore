@@ -27,6 +27,7 @@ KNNvevn/
 SVMvevn/
 EDA2vevn/
 NBvevn/
+ARvevn/
 env/
 *.env
 *.venv
